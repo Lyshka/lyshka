@@ -1,3 +1,5 @@
+[![codewars](https://www.codewars.com/users/lyshka_aim/badges/large)](https://www.codewars.com/users/lyshka_aim)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lyshka/lyshka/refs/heads/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lyshka/lyshka/blob/output/github-contribution-grid-snake.svg" />
